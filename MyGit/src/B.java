@@ -1,6 +1,6 @@
 
 public class B {
-	public static void main(String args[]) {
+	public void sayB(){
 		System.out.println("B");
 	}
 }
