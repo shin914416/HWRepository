@@ -6,6 +6,6 @@ public class A {
 		b.sayB();
 		C c = new C();
 		c.sayC();
-		System.out.println("Main");
+		System.out.println("v1.0");
 	}
 }
